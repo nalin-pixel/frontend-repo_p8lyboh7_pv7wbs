@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Interactive 3D Portfolio",
+    "description": "A playful portfolio featuring a Spline 3D hero, multilingual UI, and markdown-powered blog.",
+    "tags": ["react", "spline", "i18n", "tailwind"],
+    "demo": "https://example.com/demo",
+    "source": "https://github.com/example/repo"
+  },
+  {
+    "id": 2,
+    "title": "FastAPI Mailer",
+    "description": "Email contact service with validation and rate limiting.",
+    "tags": ["fastapi", "python"],
+    "source": "https://github.com/example/fastapi-mailer"
+  },
+  {
+    "id": 3,
+    "title": "Content Toolkit",
+    "description": "Markdown and JSON driven content system for blogs and project pages.",
+    "tags": ["content", "markdown", "json"],
+    "demo": "https://example.com/content"
+  }
+]
